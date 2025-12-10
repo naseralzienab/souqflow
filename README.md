@@ -14,7 +14,7 @@ A Flutter E-Commerce application.
 </p>
 
 <p align="center">
-  <img src="assets/images/app_icon.png" width="200" alt="App Icon">
+  <img src="C:\flutter_projects\souqflow\lib\assets\images\app_icon.png" width="200" alt="App Icon">
 </p>
 
 ## 📱 Screenshots
@@ -22,18 +22,21 @@ A Flutter E-Commerce application.
 <div align="center">
   <table>
     <tr>
-      <td><img src="screenshots/SF1.png" width="200" alt="Home Screen Light"></td>
-      <td><img src="screenshots/SF2.png" width="200" alt="Cart Screen Light"></td>
-      <td><img src="screenshots/SF3.png" width="200" alt="Profile Screen Light"></td>
-      <td><img src="screenshots/SF4.png" width="200" alt="Home Screen Dark"></td>
-      <td><img src="screenshots/SF5.png" width="200" alt="Cart Screen Dark"></td>
-      <td><img src="screenshots/SF6.png" width="200" alt="Profile Screen Dark"></td>
+      <td><img src="C:\flutter_projects\souqflow\lib\assets\screenshots\SF1.jpg" width="200" alt="Home Screen Light"></td>
+      <td><img src="C:\flutter_projects\souqflow\lib\assets\screenshots\SF2.jpg" width="200" alt="Cart Screen Light"></td>
+      <td><img src="C:\flutter_projects\souqflow\lib\assets\screenshots\SF3.jpg" width="200" alt="Profile Screen Light"></td>
+      <td><img src="C:\flutter_projects\souqflow\lib\assets\screenshots\SF4.jpg" width="200" alt="Home Screen Dark"></td>
+      <td><img src="C:\flutter_projects\souqflow\lib\assets\screenshots\SF5.jpg" width="200" alt="Cart Screen Dark"></td>
+      <td><img src="C:\flutter_projects\souqflow\lib\assets\screenshots\SF6.jpg" width="200" alt="Profile Screen Dark"></td>
     </tr>
     <tr>
-      <td align="center">Home Screen</td>
-      <td align="center">Products</td>
-      <td align="center">Product Details</td>
-      <td align="center">Shopping Cart</td>
+      <td align="center">Home Screen Light</td>
+      <td align="center">Cart Screen Light</td>
+      <td align="center">Profile Screen Light</td>
+      <td align="center">Home Screen Dark</td>
+      <td align="center">Cart Screen Dark</td>
+      <td align="center">Profile Screen Dark</td>
+
     </tr>
   </table>
 </div>
