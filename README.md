@@ -1,4 +1,4 @@
-# souqflow
+# SouqFlow
 
 A Flutter E-Commerce application.
 
